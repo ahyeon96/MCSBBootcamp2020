@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 %% c, d, e
 r = 2.5;
 K = 0.6;
@@ -87,4 +86,3 @@ figure(2); clf; hold on; box on;
 plot(rArray,xSS, '.');
 ylabel('Population');
 xlabel('Growth rate r')
->>>>>>> a77e1be4c78109c63be30b0ba26b93d3897f08fe
